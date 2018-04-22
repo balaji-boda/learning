@@ -23,6 +23,6 @@ public class Hello {
   @Produces(MediaType.TEXT_HTML)  
   public String sayHtmlHello() {  
     return "<html> " + "<title>" + "Hello Jersey" + "</title>"  
-        + "<body><h1>" + "Hello Jersey HTML" + "</h1></body>" + "</html> ";  
+        + "<body><h1>" + "Hello Balaji HTML" + "</h1></body>" + "</html> ";  
   }  
 }  
