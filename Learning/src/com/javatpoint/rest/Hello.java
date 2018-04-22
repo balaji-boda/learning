@@ -17,6 +17,6 @@ public class Hello {
   @GET
   @Path("/bye") 
   public String byeMessage() {
-	  return "Bye";
+	  return "Bye Balaji";
   }
 }  
